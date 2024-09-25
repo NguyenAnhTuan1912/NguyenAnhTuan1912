@@ -25,6 +25,8 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Python-FCBA03?style=for-the-badge&logo=python&logoColor=black" alt="Python logo" title="Python" height="25" /></span>
+  &nbsp;
   <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -46,21 +48,33 @@
   &nbsp;
   
 <!-- Others -->
-### Databases (DB Management Systems)
+### Databases (Management Systems / Engines)
   <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server logo" title="MS SQL Server" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server logo" title="MS SQL Server" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=black" alt="MS SQL Server logo" title="MySQL" height="25" /></span>
+  &nbsp;
+
+### Cloud
+  <span><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
   &nbsp;
   
 <!-- Others -->
 ### Others
-  <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vsc&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator logo" title="Adobe Illustrator" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Docker-1E63EE?style=for-the-badge&logo=docker&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Linux-262626?style=for-the-badge&logo=linux&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
   &nbsp;
 </p>
 
