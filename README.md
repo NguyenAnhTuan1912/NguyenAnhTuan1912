@@ -1,4 +1,3 @@
-
 <div align="center">
   <img align="center" height="250px" src="https://user-images.githubusercontent.com/66428255/192133748-59376ad2-526c-4089-a3b5-d0fbb9d6c478.gif" />
   <img align="center" height="250px" src="https://user-images.githubusercontent.com/73085770/190730412-f5a40d94-37c0-4418-bc7d-7932796953db.gif" />
@@ -7,7 +6,7 @@
 
 ## 👋 About Me
 - :credit_card: My full name is **Nguyen Anh Tuan**
-- :school: I'm currently the last year student at **Dong Nai University of Technology**
+- :school: Currently, I'm a last year student at **Dong Nai University of Technology**
 - :books: My major is **Information Technology**
 - :earth_asia: I'm now living in **Bien Hoa, Dong Nai, Viet Nam**
 - :bulb: Best fact: **_"Dedicated to learning"_**
